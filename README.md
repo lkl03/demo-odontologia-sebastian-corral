@@ -1,2 +1,7 @@
-# demo-odontologia-sebastian-corral
-Demo web para Odontología Sebastián Corral — diseñada por eterlab.
+# Odontología Sebastián Corral
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
